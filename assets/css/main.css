@@ -2633,8 +2633,8 @@ input, select, textarea {
 
 		.image.main {
 			display: block;
-			margin: 4rem 0;
-			width: 100%;
+			width: 70%;
+			margin: auto;
 		}
 
 			.image.main:first-child {
